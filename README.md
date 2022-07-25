@@ -5,3 +5,7 @@ Using Leantween and a custom script of leantween to create those juicy animation
 Modes :
 
 ![](https://github.com/Ali10555/TicTacToeMiniMaxAI/blob/main/Assets/GIFs/Modes.gif)
+
+Invincible AI :
+
+![](https://github.com/Ali10555/TicTacToeMiniMaxAI/blob/main/Assets/GIFs/Invincible.gif)
