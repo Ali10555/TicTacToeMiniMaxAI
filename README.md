@@ -8,5 +8,4 @@ Modes :
 
 AI :
 
-![AI GIF](https://github.com/Ali10555/TicTacToeMiniMaxAI/blob/main/Assets/GIFs/Invincible.gif)
-
+![Invincible](https://user-images.githubusercontent.com/96617579/180754233-4a79fe44-623e-4115-bd77-f1bcef13572a.gif)
