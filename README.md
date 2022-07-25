@@ -6,6 +6,7 @@ Modes :
 
 ![](https://github.com/Ali10555/TicTacToeMiniMaxAI/blob/main/Assets/GIFs/Modes.gif)
 
-Invincible AI :
+AI :
 
 ![](https://github.com/Ali10555/TicTacToeMiniMaxAI/blob/main/Assets/GIFs/Invincible.gif)
+
